@@ -1,0 +1,10 @@
+{
+"Facebook_Banner":"YOUR_PLACEMENT_ID",
+"Facebook_Int":"YOUR_PLACEMENT_ID",
+"Facebook_Native_Ad":"YOUR_PLACEMENT_ID",
+"Facebook_Native_Banner":"YOUR_PLACEMENT_ID",
+"flag":"2",
+"IronSource_ID":"",
+"ADMob_Int":"",
+"gif_link":"https://elastic-edison-ee5475.netlify.app/gif.json"
+}
