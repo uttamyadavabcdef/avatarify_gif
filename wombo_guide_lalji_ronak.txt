@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 8px;
+}
+
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
+
+.container {
+  padding: 0 16px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #555;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="about-section">
+  <h1>Privacy Policy</h1>
+</div>
+
+
+
+
+
+
+    <div class="card">
+
+      <div class="container">
+        <h2>Thop Tv king one STATEMENT OF PRIVACY PROTECTION</h2>
+	<p>Thop Tv App (Live Cricket, Live Match, Live IPL ,Live Score) attaches great importance to protecting your privacy. Before using the services or apps provided by Thop Tv King 2021, please read carefully the following statements.
+	In order to provide more accurate and well-targeted services, Thop Tv king one  may use personal information submitted by you in the manners mentioned below; nevertheless, Thop Tv king one   will treat such information with a high level duty of diligence. Without your permission, Thop Tv King one will not disclose such information or provide such information to any third party.
+	</p>
+      </div>
+    </div>
+
+
+    <div class="card">
+
+      <div class="container">
+        <h2>Protecting YOUR Privacy</h2>
+	<p>It is Thop Tv's principle to respect the privacy of the personal information of our users. Thop Tv King   will take reasonable measures to protect user's personal information, without disclosing such information to any third party other than its Partners (without the consent of the user), unless such disclosure is required by law, court order or competent government departments or agreed to by the user. Exceptions will be applied if the user selects to accept such disclosures during the registration process (where applicable), or is otherwise stipulated on the disclosure or use of a user's personal information between the user and 	<p>It is Thop Tv's principle to respect the privacy of the personal information of our users. Thop Tv King   will take reasonable measures to protect user's personal information, without disclosing such information to any third party other than its Partners (without the consent of the user), unless such disclosure is required by law, court order or competent government departments or agreed to by the user. Exceptions will be applied if the user selects to accept such disclosures during the registration process (where applicable), or is otherwise stipulated on the disclosure or use of a user's personal information between the user and Thop Tv King one  and its Partners. The user shall bear any risks that may arise from any authorized disclosure of a user's personal information. For the operation and improvement of Thop Tv King one 's technologies and services, Thop Tv King one may collect and use the non-personal information of its users, or provide such information to third parties, in order to provide better user experience and 	improve the quality of our services.
+  and its Partners. The user shall bear any risks that may arise from any authorized disclosure of a user's personal information. For the operation and improvement of Thop Tv King one 's technologies and services, Thop Tv King one may collect and use the non-personal information of its users, or provide such information to third parties, in order to provide better user experience and 	improve the quality of our services.
+	</p>
+      </div>
+    </div>
+
+ <div class="card">
+
+      <div class="container">
+        <h2>Permission</h2>
+	<p>This app uses the Device Administrator permission. 
+
+Permission android.permission.CAMERA to take photo from your camera
+
+ Permission android.permission.READ_EXTERNAL_STORAGE  to choose photo from your external storage.
+
+Permission android.permission.WRITE_EXTERNAL_STORAGE to save photo to your external storage.
+
+Permission android.permission.INTERNET to use your internet 
+
+Permission android.permission.SET_WALLPAPER to set your wallpaper
+
+
+	</p>
+      </div>
+    </div>
+<h1 style="font-size:50px" align="center">
+THANK YOU!</h1>
+
+
+  
+
+</body>
+</html>
