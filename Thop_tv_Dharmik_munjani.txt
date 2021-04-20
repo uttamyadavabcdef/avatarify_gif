@@ -1,8 +1,8 @@
 {
-Facebook_Banner: "YOUR_PLACEMENT_ID",
-Facebook_Int: "YOUR_PLACEMENT_ID",
-Facebook_Native_Ad: "YOUR_PLACEMENT_ID",
-Facebook_Native_Banner: "YOUR_PLACEMENT_ID",
+Facebook_Banner: "179628417315572_180159610595786",
+Facebook_Int: "179628417315572_180158210595926",
+Facebook_Native_Ad: "179628417315572_180160463929034",
+Facebook_Native_Banner: "179628417315572_180160313929049",
 flag: "2",
 IronSource_ID: "",
 livescore_flag: "2",
