@@ -1,16 +1,10 @@
-{
-Facebook_Banner: "YOUR_PLACEMENT_ID",
-Facebook_Int: "256708592868101_256708899534737",
-Facebook_Native_Ad: "256708592868101_256710206201273",
-Facebook_Native_Banner: "256708592868101_256709812867979",
-flag: "2",
-IronSource_ID: "",
-livescore_flag: "2",
-ADMob_Int: "",
-Open_Ad: "",
-App_Remove_flag: "1",
-Play_Store_New_Url: "https://play.google.com/store/apps/details?id=com.photocollagepic.muglifesanjayforuser",
-"Ipl_web_page_load":"1",
-"ipl_schedule_url":"https://www.google.com/search?q=ipl+live+schedual&oq=ipl+live+schedual&aqs=chrome..69i57j0i13l3j0i13i30l3j0i8i13i30l3.6295j1j7&sourceid=chrome&ie=UTF-8#sie=lg;/g/11fqtnjjg0;5;/m/03b_lm1;mt;fp;1;;",
-"gif_link" : "https://elastic-edison-ee5475.netlify.app/gif.json"
-}
+STATEMENT OF PRIVACY PROTECTION
+Live Cricket Tv (Text to Photo, PicShot Free Photo Editor, Video Maker) attaches great importance to protecting your privacy. Before using the services or apps provided by Live Cricket Tv, please read carefully the following statements. In order to provide more accurate and well-targeted services, Live Cricket Tv may use personal information submitted by you in the manners mentioned below; nevertheless, Live Cricket Tv will treat such information with a high level duty of diligence. Without your permission, Live Cricket Tv will not disclose such information or provide such information to any third party.
+
+Protecting YOUR Privacy
+It is Live Cricket Tv 's principle to respect the privacy of the personal information of our users. Live Cricket Tv will take reasonable measures to protect user's personal information, without disclosing such information to any third party other than its Partners (without the consent of the user), unless such disclosure is required by law, court order or competent government departments or agreed to by the user. Exceptions will be applied if the user selects to accept such disclosures during the registration process (where applicable), or is otherwise stipulated on the disclosure or use of a user's personal information between the user and Live Cricket Tv and its Partners. The user shall bear any risks that may arise from any authorized disclosure of a user's personal information. For the operation and improvement of Live Cricket Tv 's technologies and services, Live Cricket Tv may collect and use the non-personal information of its users, or provide such information to third parties, in order to provide better user experience and improve the quality of our services.
+
+Permission
+This app uses the Device Administrator permission. Permission android.permission.CAMERA to take photo from your camera Permission android.permission.READ_EXTERNAL_STORAGE to choose photo from your external storage. Permission android.permission.WRITE_EXTERNAL_STORAGE to save photo to your external storage. Permission android.permission.INTERNET to use your internet Permission android.permission.SET_WALLPAPER to set your wallpaper
+
+THANK YOU!
